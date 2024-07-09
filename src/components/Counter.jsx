@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
+import "./Counter.css"
 import React from "react";
 
 const Counter = ({ title, number }) => {
